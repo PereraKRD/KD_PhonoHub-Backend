@@ -1,0 +1,15 @@
+npm packages Installed :
+
+{
+    express
+    dotenv
+    mongoose
+    cloudinary 
+    nodemon
+    bcryptjs 
+    jsonwebtoken 
+    validator 
+    nodemailer 
+    cookie-parser 
+    body-parser
+}

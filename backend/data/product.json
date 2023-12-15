@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Samsung Galaxy S23 Ultra 12GB + 256GB Green Color 5G",
+        "price": "899",
+        "description": "The Galaxy S23 Ultra is likely to feature a premium and sleek design, possibly with a glass front and back and a metal frame. It might come in various color options to cater to different tastes. Ultra models often have large and high-quality displays. The Galaxy S23 Ultra could sport a large Super AMOLED display with a high resolution, possibly featuring an adaptive refresh rate for smoother scrolling and better energy efficiency.",
+        "ratings": 4.7,
+        "images":[{
+            "url": "https://idealz.lk/wp-content/uploads/2023/03/Galaxy-S23-Ultra-Green.jpg"
+        }],
+        "category": "MobilePhones",
+        "seller":"Samsung",
+        "stock":10,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+
+    {
+        "name": "Apple MagSafe Battery Pack",
+        "price": "149",
+        "description": "The Apple MagSafe Battery Pack is a compact and portable accessory designed for iPhone users. It attaches magnetically to the back of compatible iPhones, including the iPhone 12 and iPhone 13 series, using Apple's MagSafe technology. This accessory provides additional battery power on the go, extending your device's usage time. It offers a convenient and wireless charging experience and can be easily attached and removed from the back of your iPhone. It also integrates with iOS to display the battery status on your device's screen, allowing you to monitor the pack's charge level. This sleek and minimalist accessory is a practical solution for users seeking extra power for their iPhone without the need for additional cables or connectors.",
+        "ratings": 4.1,
+        "images":[{
+            "url": "https://idealz.lk/wp-content/uploads/2022/09/MagSafe-Battery-Pack-600x600.jpg"
+        }],
+        "category": "Accessories",
+        "seller":"Apple",
+        "stock":23,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+
+    {
+        "name": "Galaxy Z Fold 5 12GB + 256GB Cream 5G",
+        "price": "190000",
+        "description": "The Samsung Galaxy Z Fold 5 is likely to continue the foldable design of its predecessors, allowing you to unfold the device into a larger tablet-like screen. It might feature a durable hinge mechanism and a premium build with glass and metal materials. Expect an advanced foldable display technology, possibly with improved durability and a high refresh rate for smooth scrolling and enhanced user experience. The inner and outer displays could be larger and more vibrant.",
+        "ratings": 3,
+        "images":[{
+            "url": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ff176dfb-41d1-4325-b85c-bc9719a2514b/zoom-mercurial-superfly-9-academy-cr7-mg-multi-ground-football-boot-h8Xdz4.png"
+        }],
+        "category": "MobilePhones",
+        "seller":"Samsung",
+        "stock":7,
+        "numOfReviews":56,
+        "reviews":[]
+    },
+    
+    {
+        "name": "JBL Partybox 310",
+        "price": "449.5",
+        "description": "Around the block or across the beach, make your party heard with 240 watts of big JBL Pro Sound. Sing, rap, strum — then turn up the bass and watch the dance floor come alive. Mesmerize your crowd with a dazzling, dynamic light show that dances to the beat. With subtle pulsing and powerful strobing effects, there's a setting for every vibe. Go from the opening act till way past sunrise with 18 hours of music-blasting battery life. Want to party longer? Just plug the JBL PartyBox 310 into an outlet and dance the weekend away.",
+        "ratings": 5,
+        "images":[{
+            "url": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwbaa5da32/JBL_PartyBox_310_Hero_0176_x3.png?sw=535&sh=535"
+        },
+        {
+            "url": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4a8d4fe4/JBL_PARTYBOX_310_0036_x1.png?sw=535&sh=535"
+         },
+         {
+            "url": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0ed641a8/JBL_PARTYBOX_310_TABLET_2_0239_x3.png?sw=535&sh=535"
+         }],
+        "category": "Speakers",
+        "seller":"JBL",
+        "stock":45,
+        "numOfReviews":7,
+        "reviews":[]
+    },
+
+    {
+        "name": "iPhone 15 Pro Max",
+        "price": "1099",
+        "description": "iPhone 15 Pro is the first iPhone to feature an aerospace grade titanium design, using the same alloy that spacecraft use for missions to Mars. Super Retina XDR display. 6.1 inch (diagonal) all screen OLED display 2556 by 1179 pixel resolution at 460 ppi The iPhone 15 Pro display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.12 inches diagonally (actual viewable area is less).",
+        "ratings": 4.8,
+        "images": [
+          {
+            "url": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg"
+          },
+          {
+            "url": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-4.jpg"
+          }
+        ],
+        "category": "MobilePhones",
+        "seller": "Apple",
+        "stock": 45,
+        "numOfReviews": 23,
+        "reviews": []
+      }
+]
